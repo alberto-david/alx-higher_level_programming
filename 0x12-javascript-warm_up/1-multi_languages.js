@@ -1,9 +1,4 @@
 #!/usr/bin/node
-
-const phrase1 = 'C is fun';
-const phrase2 = 'Python is cool';
-const phrase3 = 'Javascript is amazing';
-
-console.log(phrase1);
-console.log(phrase2);
-console.log(phrase3);
+console.log('C is fun');
+console.log('Python is cool');
+console.log('Javascript is amazing');
